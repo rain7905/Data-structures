@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u6570\u636E\u7ED3\u6784\\stack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AB9358-4C93-4372-8A47-31DAB8D420F1}|stack\\stack.vcxproj|D:\\\u6570\u636E\u7ED3\u6784\\stack\\stack\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0AB9358-4C93-4372-8A47-31DAB8D420F1}|stack\\stack.vcxproj|solutionrelative:stack\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AB9358-4C93-4372-8A47-31DAB8D420F1}|stack\\stack.vcxproj|D:\\\u6570\u636E\u7ED3\u6784\\stack\\stack\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0AB9358-4C93-4372-8A47-31DAB8D420F1}|stack\\stack.vcxproj|solutionrelative:stack\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stack.h",
+              "DocumentMoniker": "D:\\\u6570\u636E\u7ED3\u6784\\stack\\stack\\stack.h",
+              "RelativeDocumentMoniker": "stack\\stack.h",
+              "ToolTip": "D:\\\u6570\u636E\u7ED3\u6784\\stack\\stack\\stack.h",
+              "RelativeToolTip": "stack\\stack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-27T15:43:42.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stack.cpp",
+              "DocumentMoniker": "D:\\\u6570\u636E\u7ED3\u6784\\stack\\stack\\stack.cpp",
+              "RelativeDocumentMoniker": "stack\\stack.cpp",
+              "ToolTip": "D:\\\u6570\u636E\u7ED3\u6784\\stack\\stack\\stack.cpp",
+              "RelativeToolTip": "stack\\stack.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-27T15:43:35.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
