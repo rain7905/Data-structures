@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11A85C24-2A40-467B-8975-B154169E0D18}|\u961F\u5217\\\u961F\u5217.vcxproj|D:\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\\u961F\u5217\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11A85C24-2A40-467B-8975-B154169E0D18}|\u961F\u5217\\\u961F\u5217.vcxproj|solutionrelative:\u961F\u5217\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A85C24-2A40-467B-8975-B154169E0D18}|\u961F\u5217\\\u961F\u5217.vcxproj|D:\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\\u961F\u5217\\queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11A85C24-2A40-467B-8975-B154169E0D18}|\u961F\u5217\\\u961F\u5217.vcxproj|solutionrelative:\u961F\u5217\\queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "queue.cpp",
+              "DocumentMoniker": "D:\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\\u961F\u5217\\queue.cpp",
+              "RelativeDocumentMoniker": "\u961F\u5217\\queue.cpp",
+              "ToolTip": "D:\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\\u961F\u5217\\queue.cpp",
+              "RelativeToolTip": "\u961F\u5217\\queue.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-20T10:55:13.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "queue.h",
+              "DocumentMoniker": "D:\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\\u961F\u5217\\queue.h",
+              "RelativeDocumentMoniker": "\u961F\u5217\\queue.h",
+              "ToolTip": "D:\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\\u961F\u5217\\queue.h",
+              "RelativeToolTip": "\u961F\u5217\\queue.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-20T10:55:07.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
